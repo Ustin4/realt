@@ -1,0 +1,11 @@
+import React from 'react';
+
+const Header = () => {
+    return (
+        <div className={'min-h-screen mb-4 bg-cover bg-center flex-initial items-center w-full overflow-hidden'}>
+            
+        </div>
+    );
+};
+
+export default Header;
